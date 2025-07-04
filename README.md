@@ -1,4 +1,4 @@
-# 🧠 Anuj Saraswat — Product Strategy. Platform Thinking. AI-Driven Impact.
+# 🧠 Anuj — Product Strategy. Platform Thinking. AI-Driven Impact.
 
 Welcome to my product portfolio. I’m a **Product Leader with 12+ years** of experience building and scaling enterprise-grade platforms—especially in **AI/ML**, **healthcare**, and **data infrastructure**.
 
