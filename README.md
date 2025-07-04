@@ -13,9 +13,6 @@ This repo is a curated collection of **case studies, product strategy artifacts,
 ### 📁 `product-docs/`  
 Sample Documentations of an intelligence fusion platform which I built from scratch by embedded AI into user workflows and scaled it to serve millions. You can view it here https://github.com/anujpml/portfolio/tree/product-docs
 
-### 📁 `llm-agent-infra/`  
-How I led the design of an internal LLMOps platform to orchestrate agent-based AI tools using RAG, embeddings, CoT reasoning, and LangChain + Elasticsearch architecture.
-
 ### 📁 `go-to-market-launches/`  
 GTM stories—from market fit validation to customer demos, pricing, and launch playbooks that drove adoption and revenue across multiple enterprise segments.
 
