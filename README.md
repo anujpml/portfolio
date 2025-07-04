@@ -10,8 +10,8 @@ If you're into building real products for real people—where business value, en
 
 This repo is a curated collection of **case studies, product strategy artifacts, and technical product work** I’ve led. Each folder dives into real-world challenges, my approach to solving them, and the outcomes delivered.
 
-### 📁 `ifc-ai-platform/`  
-Case study: How we built a intelligence fusion platform from scratch, embedded AI into user workflows, and scaled it to serve thousands—while aligning with productivity space.
+### 📁 `product-docs/`  
+Sample Documentations of an intelligence fusion platform which I built from scratch by embedded AI into user workflows and scaled it to serve millions. You can view it here https://github.com/anujpml/portfolio/tree/product-docs
 
 ### 📁 `llm-agent-infra/`  
 How I led the design of an internal LLMOps platform to orchestrate agent-based AI tools using RAG, embeddings, CoT reasoning, and LangChain + Elasticsearch architecture.
