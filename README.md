@@ -1,6 +1,6 @@
 # 🧠 Anuj — Product Strategy. Platform Thinking. AI-Driven Impact.
 
-Welcome to my product portfolio. I’m a **Product Leader with 12+ years** of experience building and scaling enterprise-grade platforms—especially in **AI/ML**, **healthcare**, and **data infrastructure**.
+Welcome to my product portfolio. I’m a **Product Leader with 12+ years** of experience building and scaling enterprise-grade platforms—especially in **AI/ML**, **data infrastructure**, and **robotics**. I have domian expertise in the healthcare, cycbersecurity, digital forensics, and industrial automations.
 
 If you're into building real products for real people—where business value, engineering complexity, and user empathy intersect—you're in the right place.
 
@@ -8,7 +8,7 @@ If you're into building real products for real people—where business value, en
 
 ## 🛠️ What You'll Find Here
 
-This repo is a curated collection of **case studies, product strategy artifacts, and technical product work** I’ve led. Each folder dives into real-world challenges, my approach to solving them, and the outcomes delivered.
+This repo is a curated collection of **case studies, product management artifacts, and entrepreneurship initiatives** I’ve led. Each folder dives into real-world challenges, my approach to solving them, and the outcomes delivered.
 
 ### 📁 `work-samples/`  
 Examples of product strategy, roadmaps, product requirement documents, KPIs/OKRs, SDLC documents and stakeholder decks used to align teams across product, engineering, design, and GTM on complex platform initiatives.
