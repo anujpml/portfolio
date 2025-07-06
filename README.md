@@ -10,14 +10,19 @@ If you're into building real products for real people—where business value, en
 
 This repo is a curated collection of **case studies, product strategy artifacts, and technical product work** I’ve led. Each folder dives into real-world challenges, my approach to solving them, and the outcomes delivered.
 
-### 📁 `product-docs/`  
-Sample Documentations of an intelligence fusion platform which I built from scratch by embedded AI into user workflows and scaled it to serve millions. You can view it here https://github.com/anujpml/portfolio/tree/product-docs
+### 📁 `work-samples/`  
+Examples of product strategy, roadmaps, product requirement documents, KPIs/OKRs, SDLC documents and stakeholder decks used to align teams across product, engineering, design, and GTM on complex platform initiatives.
 
-### 📁 `go-to-market-launches/`  
-GTM stories—from market fit validation to customer demos, pricing, and launch playbooks that drove adoption and revenue across multiple enterprise segments.
+### 📁 `product-case-studies/`  
+Product design and monetization case studies—from ideation(0), market fit validation(1) to product-led-growth(10) through first principle and design thinking, customer advocacy, commercialisations, and market-positioning that drove adoption, customer satisfaction and revenue across multiple enterprise segments.
 
-### 📁 `roadmaps-strategy/`  
-Examples of product roadmaps, OKRs, and stakeholder decks used to align teams across product, engineering, design, and GTM on complex platform initiatives.
+### 📁 `the-art-and-science-of-product-management/`  
+🎯 Master the mindset, mechanics, and messy reality of building great products.
+A practical guide for aspiring PMs, rising product leaders, and startup founders who want to scale more than just code.
+
+### 📁 `entrepreneurship/`  
+🚀 **From zero to something that matters.**
+A no-fluff, real-world guide to launching, validating, and scaling ideas—built for first-time founders, side-hustlers, and relentless builders.
 
 ---
 
