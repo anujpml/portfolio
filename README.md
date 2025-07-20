@@ -1,6 +1,16 @@
 ## 👋 Welcome to My Product Portfolio
 Here you’ll find case studies and work samples from 8 enterprise-grade productivity and automation platforms that I’ve built, monetized, and scaled across industries like healthcare, cybersecurity, and AI infrastructure.
 
+## Portfolio Summary
+
+| Market Segment | Products | Stages | Key Focus |
+|---|---|---|---|
+| **Cybersecurity** | RapidDFIR | 0-1 | Threat intelligence and incident response |
+| **Law Enforcement & Digital Forensics** | Prophecy Suite, Argus | 1-100 | Intelligence fusion, forensic analysis |
+| **AI Infrastructure & Enterprise** | Minerva, ARST | 0-10 | AI/LLM processing, developer productivity |
+| **Healthcare Technology** | Clinical Assistant Platform, ePAMS, Connected Healthcare | 0-10 | Clinical Decisioning, IoT monitoring, Telehealth |
+
+
 This repository also features a curated collection of my work in product strategy, platform thinking, and entrepreneurial initiatives. Each section highlights real-world challenges, my approach to solving them, and the measurable outcomes delivered.
 
 Whether you're exploring how I’ve shaped scalable platforms or how I lead through product discovery, roadmap execution, and go-to-market strategy — I hope this gives you a clear sense of how I think, build, and drive impact.
