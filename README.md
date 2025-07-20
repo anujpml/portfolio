@@ -5,10 +5,10 @@ Here you’ll find case studies and work samples from 8 enterprise-grade product
 
 | Market Segment | Products | Stages | Key Focus |
 |---|---|---|---|
-| **Cybersecurity** | RapidDFIR | 0-1 | Threat intelligence and incident response |
-| **Law Enforcement & Digital Forensics** | Prophecy Suite, Argus | 1-100 | Intelligence fusion, forensic analysis |
 | **AI Infrastructure & Enterprise** | Minerva, ARST | 0-10 | AI/LLM processing, developer productivity |
+| **Cybersecurity** | RapidDFIR | 0-1 | Threat intelligence and incident response |
 | **Healthcare Technology** | Clinical Assistant Platform, ePAMS, Connected Healthcare | 0-10 | Clinical Decisioning, IoT monitoring, Telehealth |
+| **Law Enforcement & Digital Forensics** | Prophecy Suite, Argus | 1-100 | Intelligence fusion, forensic analysis |
 
 
 This repository also features a curated collection of my work in product strategy, platform thinking, and entrepreneurial initiatives. Each section highlights real-world challenges, my approach to solving them, and the measurable outcomes delivered.
