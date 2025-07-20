@@ -1,6 +1,4 @@
-# 🧠 Anuj — Product Strategy. Platform Thinking. AI-Driven Impact.
-
-Welcome to my product portfolio. I’m a **Product Leader with 12+ years** of experience building and scaling enterprise-grade platforms—especially in **AI/ML**, **data infrastructure**, and **robotics**. I have domian expertise in the healthcare, cycbersecurity, digital forensics, and industrial automations.
+Welcome to my product portfolio. I’m a **Product Leader with 12+ years** of experience building and scaling 8 enterprise-grade productivity and automation platforms—especially in **AI/ML**, **data infrastructure**, and **IoT**.
 
 If you're into building real products for real people—where business value, engineering complexity, and user empathy intersect—you're in the right place.
 
