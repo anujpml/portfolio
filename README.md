@@ -1,13 +1,13 @@
 ## 👋 Welcome to My Product Portfolio
 Here you’ll find case studies and work samples from 8 enterprise-grade productivity and automation platforms that I’ve built, monetized, and scaled across industries like healthcare, cybersecurity, and AI infrastructure.
 
-## Portfolio Summary
+## [Portfolio](https://github.com/anujpml/portfolio/blob/main/Portfolio.md) Summary
 
 | Market Segment | Products | Stages | Key Focus |
 |---|---|---|---|
-| **AI Infrastructure & Enterprise** | Minerva, ARST | 0-10 | AI/LLM processing, developer productivity |
+| **AI & Data Infrastructure** | Minerva, Intelligent Automation Platform, ARST | 0-10 | AI/LLM processing, developer productivity |
 | **Cybersecurity** | RapidDFIR | 0-1 | Threat intelligence and incident response |
-| **Healthcare Technology** | Clinical Assistant Platform, ePAMS, Connected Healthcare | 0-10 | Clinical Decisioning, IoT monitoring, Telehealth |
+| **Healthcare** | Clinical Assistant Platform, ePAMS, Connected Healthcare | 0-10 | Clinical Decisioning, IoT monitoring, Telehealth |
 | **Law Enforcement & Digital Forensics** | Prophecy Suite, Argus | 1-100 | Intelligence fusion, forensic analysis |
 
 
