@@ -1,6 +1,6 @@
 # Product Portfolio
 
-## Defense & Cybersecurity
+## Cybersecurity
 
 ### RapidDFIR - AI Cybersecurity Platform
 
@@ -24,14 +24,14 @@
 
 ---
 
-## Law Enforcement & Digital Forensics
+## Finance
 
-### Prophecy Platform Suite - Big Data Intelligence Fusion Center
+### Prophecy Eagle I - Financial Crime Investigation & Reporting
 
-**Product:** Superior intelligence processing platform providing predictive crime analysis and real-time actionable insights. Analyzes petabytes of intercepted electronic signals, field reports, satellite imagery, and open-source data using GIS, Graph, FRS & Temporal analysis.
+**Product:** Superior intelligence processing platform providing predictive crime analysis and real-time actionable insights. It identify the hidden patterns and correlations through search, knowledge graph, media, temporal and geospatial analysis from hundreds terabytes of data. It presents insights through alerts, interactive dashboards, charts, reports and network graphs.
 
 **Market Segment:**
-- Defense and Police Forces  
+- Banks, Defense & Police Forces  
 - Law & Order Enforcement Agencies
 - B2B Enterprise Model
 
@@ -45,26 +45,6 @@
 - 10 to 100 stage maturity
 - Processes petabytes of data
 - Competes with Tableau and Power BI in analytics space
-
-### Argus - Digital Forensic & Financial Crime Platform
-
-**Product:** Forensic investigation tool that identifies hidden patterns and correlations through search, knowledge graph, media, temporal and geospatial analysis. Can ingest hundreds of terabytes of mobile, laptop, computer & cloud data dumps.
-
-**Market Segment:**
-- Law & Order Enforcement Agencies
-- B2B Enterprise Model
-- Digital Forensics & Financial Crime Investigation
-
-**Value Proposition:**
-- Advanced pattern recognition and correlation analysis
-- Multi-terabyte data processing capabilities
-- Interactive dashboards and network graph visualizations
-- Comprehensive digital evidence analysis
-
-**Impact Metrics:**
-- 1 to 100 stage product
-- Competes with Cellebrite Pathfinder, Nuix eDiscovery, Magnet AXIOM Cyber
-- Handles hundreds of terabytes of forensic data
 
 ---
 
@@ -181,10 +161,10 @@
 
 | Market Segment | Products | Stage Range | Key Focus |
 |---|---|---|---|
-| **Defense & Cybersecurity** | RapidDFIR | 0-1 | Threat detection, incident response |
-| **Law Enforcement & Digital Forensics** | Prophecy Suite, Argus | 1-100 | Intelligence fusion, forensic analysis |
-| **AI Infrastructure & Enterprise** | Minerva, ARST | 0-10 | AI/LLM processing, developer productivity |
-| **Healthcare & Medical Technology** | Clinical Platform, ePAMS, Connected Healthcare | 0-10 | Population health, IoT monitoring, telehealth |
+| **Cybersecurity** | RapidDFIR | 0-1 | Threat detection, incident response |
+| **Finance** | Prophecy Eagle I | 1-100 | Financial Crime, AML, Transactional Intelligence |
+| **Data & AI Platforms** | Minerva, ARST | 0-10 | AI/LLM processing, developer productivity |
+| **Healthcare** | Clinical Platform, ePAMS, Connected Healthcare | 0-10 | Population health, IoT monitoring, telehealth |
 
 ## Cross-Portfolio Key Performance Indicators
 
