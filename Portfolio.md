@@ -92,7 +92,7 @@
 
 ---
 
-## Healthcare & Medical Technology
+## Healthcare Technology
 
 ### Clinical Assistance Platform - Population Healthcare Provider
 
@@ -163,12 +163,12 @@
 |---|---|---|---|
 | **Cybersecurity** | RapidDFIR | 0-1 | Threat detection, incident response |
 | **Finance** | Prophecy Eagle I | 1-100 | Financial Crime, AML, Transactional Intelligence |
-| **Data & AI Platforms** | Minerva, ARST | 0-10 | AI/LLM processing, developer productivity |
-| **Healthcare** | Clinical Platform, ePAMS, Connected Healthcare | 0-10 | Population health, IoT monitoring, telehealth |
+| **Data & AI Platforms** | Minerva, Intelligent Automation Platform, ARST | 0-10 | Data Analytics, AI/LLM processing, developer productivity |
+| **Healthcare** | Clinical Assistance Platform, ePAMS, Connected Healthcare | 0-10 | Population health, IoT monitoring, telehealth |
 
 ## Cross-Portfolio Key Performance Indicators
 
-- **Market Coverage:** 4 major vertical segments with 8 specialized products
+- **Market Coverage:** 4 major vertical segments with 7 specialized products
 - **Technology Maturity:** Products spanning 0-1 to 10-100 stage development
 - **Geographic Reach:** Multi-language support (20+ languages in Minerva)
 - **Data Processing Scale:** From terabytes to petabytes across different platforms
