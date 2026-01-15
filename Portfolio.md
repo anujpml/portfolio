@@ -1,5 +1,67 @@
 # Product Portfolio
 
+## Data & AI Platforms, Enterprise Productivity
+
+### Minerva - Compound LLM & AI Agents Platform
+
+**Product:** AI-driven generative solutions for text, image, audio, and video processing. Extracts entities and disambiguation from unstructured data in 20+ languages, with real-time speech, object and facial recognition capabilities.
+
+**Market Segment:**
+- Law & Order Enforcement Agencies
+- B2B Enterprise Model
+- AI/LLM Infrastructure
+
+**Value Proposition:**
+- Multi-modal AI processing (text, image, audio, video)
+- 20+ language support for global operations
+- Real-time processing capabilities
+- Enhanced customer experience and operational efficiency
+
+**Impact Metrics:**
+- 0 to 10 stage with high growth potential
+- Competes with Palantir AI Platform
+- Productivity-focused AI solution
+
+### Intelligent Automation Platform - Developers Productivity Tool
+
+**Product:** Aggregate and process thousands terabyte of batch and stream data through robust, elastic & self-service multi-source connectors store, data pipelines, repositories, and, model orchestration systems, to serve multiple business applications and services.
+
+**Market Segment:**
+- Developer Ecosystem
+- Internal DevOps teams
+
+**Value Proposition:**
+- Accelerating delivery and eliminating technical complexity for internal teams by providing a pre-integrated, self-service data and AI infrastructure—enabling the rapid deployment of hyper-personalized, high-NPS customer experiences without the heavy engineering lift.
+
+**Impact Metrics:**
+- Tripled the delivery of platform capabilities and integrations, directly addressing market entry barriers.
+- Non-specialist teams easily injected sophisticated AI into customer journeys (e.g., appointment booking, health assessments), resulting in a 74+ NPS and a 30% growth in retention.
+- Internal teams delivered real-time, personalized experiences (dynamic pricing, treatment recommendations) rather than generic workflows. This drove a 55% growth in engagement.
+- Removed friction from internal workflows, enhancing business team productivity by 30% and customer service team productivity by 48%.
+
+
+### ARST - QA Productivity Tool
+
+**Product:** Assistance to Requirement Specification & Test-cases - innovative DevOps tool that enhances QA engineer productivity by generating test-cases and test data for validating SWIFT-based financial transactions in banks.
+
+**Market Segment:**
+- Quality Assurance Ecosystem
+- Internal Enterprise DevOps teams
+- Financial Services Technology
+
+**Value Proposition:**
+- Automated test case generation
+- Enhanced QA engineer productivity
+- Specialized for financial transaction validation
+- SWIFT banking protocol expertise
+
+**Impact Metrics:**
+- 0 to 1 stage product
+- Developed for IBM's internal teams
+- Developer productivity enhancement focus
+
+---
+
 ## Cybersecurity
 
 ### RapidDFIR - AI Cybersecurity Platform
@@ -45,50 +107,6 @@
 - 10 to 100 stage maturity
 - Processes petabytes of data
 - Competes with Tableau and Power BI in analytics space
-
----
-
-## AI Infrastructure & Enterprise Productivity
-
-### Minerva - Compound LLM & AI Agents Platform
-
-**Product:** AI-driven generative solutions for text, image, audio, and video processing. Extracts entities and disambiguation from unstructured data in 20+ languages, with real-time speech, object and facial recognition capabilities.
-
-**Market Segment:**
-- Law & Order Enforcement Agencies
-- B2B Enterprise Model
-- AI/LLM Infrastructure
-
-**Value Proposition:**
-- Multi-modal AI processing (text, image, audio, video)
-- 20+ language support for global operations
-- Real-time processing capabilities
-- Enhanced customer experience and operational efficiency
-
-**Impact Metrics:**
-- 0 to 10 stage with high growth potential
-- Competes with Palantir AI Platform
-- Productivity-focused AI solution
-
-### ARST - QA Productivity Tool
-
-**Product:** Assistance to Requirement Specification & Test-cases - innovative DevOps tool that enhances QA engineer productivity by generating test-cases and test data for validating SWIFT-based financial transactions in banks.
-
-**Market Segment:**
-- Developer Ecosystem
-- Internal Enterprise DevOps teams
-- Financial Services Technology
-
-**Value Proposition:**
-- Automated test case generation
-- Enhanced QA engineer productivity
-- Specialized for financial transaction validation
-- SWIFT banking protocol expertise
-
-**Impact Metrics:**
-- 0 to 1 stage product
-- Developed for IBM's internal teams
-- Developer productivity enhancement focus
 
 ---
 
