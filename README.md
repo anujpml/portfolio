@@ -10,20 +10,21 @@ Enterprise AI, Multi-Modal Intelligence & Security Infrastructure
 
 **Hyper-Personalized Pedagogy via Conversational AI & Ethical Governance**
 
-Lumina delivers a seamless "Global Tutor" experience for millions, synthesizing real-time content generation with interactive video avatars. It solves the engagement gap in digital learning by providing live, low-latency speaking practice while maintaining institutional-grade AI safety.
+A unified Data and Agentic AI platform enabling delivery of a seamless "Global Tutor" experience for millions, synthesizing real-time content generation with interactive video avatars. It solves the engagement gap in digital learning by providing live, low-latency speaking practice while maintaining institutional-grade AI safety.
 
 #### For Learners (The Immersion Engine)
 Dynamic generation of lessons based on individual proficiency gaps. Real-time video avatars act as conversational partners, providing a "Human-in-the-Loop" feel for live speaking practice without the high cost of human tutors.
 
 #### For Dev Teams (AI Governance & Safety)
-A robust "Guardrail-as-a-Service" layer. Features built-in privacy filters, hallucination checks, and human-in-the-loop (HITL) auditing tools to ensure educational content remains accurate, safe, and culturally sensitive.
+Enable the secure, scalable, and compliant use of robust reusable data and AI capabilities within workflows. Provide contextual reasoning, intelligent workflow orchestration, and robust "Guardrail-as-a-Service" layer. Features built-in privacy filters, hallucination checks, and human-in-the-loop (HITL) auditing tools to ensure educational content remains accurate, safe, and culturally sensitive.
 
 **Key Capabilities:**
-- Automated Multimedia Content Generation
-- Enterprise AI Governance Framework
-- Millions-Scale Concurrent Users
+- Automated Multimedia (audio, video, text) Content Generation, Multi-lingual and Culturally
+- Enterprise AI Governance Framework (Zero-trust-security, Privacy, GDPR/EU-AI act compliant)  
+- Unified layered architecture covering Data, Gateway, Foundation, Tooling, and the Trust layers   
+- Millions-scale Concurrent uses access control for both human and non-human identities
 
-**Impact Metrics:** Accelerating AI rollout velocity by 40%, Improved model accuracy by 35%; Competes with Duolingo Max & Speak.
+**Impact Metrics:** Accelerating AI rollout velocity by 40%, Improved model accuracy by 35%; Reduced duplicate reworks by 70% while saving 1 million Euros annually; Competes with Duolingo Max & Speak.
 
 ---
 
